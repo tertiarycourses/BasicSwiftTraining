@@ -1,4 +1,4 @@
-# Full Swift Programming Training
+# Basic Swift Programming Training
 ## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Basic Swift Programming Training](https://www.tertiarycourses.com.sg/swift-programming-training.html) course. 
